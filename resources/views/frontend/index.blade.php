@@ -271,7 +271,7 @@
         <div class="section-title">
           <h2>Gallery</h2>
           <p><i><b>Menjaga ke sehatan Dan Kebersihan Itu Penting, Maka Dari Itu Jaga Lah Ke sehatan Dan Juga Kebersihan Untuk Masa Masa Yang lebih Berwarna!<b><i></p>
-          <p><i><b>"KEEP CLAM AND SHOP INTERNET"- Steven Magee<b><i></p>
+          <p><i>"KEEP CLAM AND SHOP INTERNET"- Steven Magee<i></p>
         </div>
       </div>
 
